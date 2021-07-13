@@ -1,13 +1,3 @@
----
-title: "README"
-author: "Rakendu"
-date: "7/13/2021"
-output: pdf_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 ## Tidy Dataset preparation from the Human Activity Recognition Using Smartphones Dataset
 
