@@ -1,18 +1,3 @@
----
-title: "Codebook"
-author: "Rakendu"
-date: "7/13/2021"
-output: pdf_document
-number_sections: TRUE
-
-  - \usepackage[left]{lineno}
-  - \linenumbers
-
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 ## Tidy Dataset for Human Activity Recognition Using Smartphones
 
